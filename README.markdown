@@ -6,7 +6,11 @@
 
 	I hope all is well in the New Year.
 
-	At some point during the last few weeks I stumbled across your script to search images in the GJ database. It was such a cool idea that we decided to write our own to run within the site. We will turn it on later today, and at that point we might turn off the hot-linking option on the site, which my webmaster tells me will prevent your script from working. I haven't made the final decision on it yet but it may happen so I wanted to let you know.
+	At some point during the last few weeks I stumbled across your script to search images in the GJ database. 
+	It was such a cool idea that we decided to write our own to run within the site. We will turn it on later 
+	today, and at that point we might turn off the hot-linking option on the site, which my webmaster tells me 
+	will prevent your script from working. I haven't made the final decision on it yet but it may happen so I 
+	wanted to let you know.
 
 	And to say thank you for the time and attention put into writing that script in the first place.
 
